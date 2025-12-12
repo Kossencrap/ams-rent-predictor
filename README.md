@@ -11,7 +11,7 @@ End-to-end ML project to predict monthly rent prices in Amsterdam.
 
 ## Features
 - Predict monthly rent price
-- Fixed ±€50 confidence band (placeholder)
+- Fixed ±€50 confidence band (placeholder, not statistically calibrated)
 - Interactive frontend
 
 ---
