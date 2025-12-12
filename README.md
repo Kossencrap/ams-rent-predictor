@@ -14,7 +14,7 @@ End-to-end ML project to predict monthly rent prices in Amsterdam.
 
 ## Run locally
 
-###Backend:
+### Backend:
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 uvicorn app:app --host 127.0.0.1 --port 8001
 ```
 
-Frontend:
+### Frontend:
 ```bash
 cd rent-frontend
 npm install
